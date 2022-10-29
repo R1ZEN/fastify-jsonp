@@ -2,6 +2,9 @@
 
 [![checks](https://github.com/R1ZEN/fastify-jsonp/actions/workflows/checks.yml/badge.svg?branch=master)](https://github.com/R1ZEN/fastify-jsonp/actions/workflows/checks.yml)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
+![npm](https://img.shields.io/npm/v/@pbe/fastify-jsonp?label=npm%20version)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@pbe/fastify-jsonp)
+
 
 A plugin for [Fastify](http://fastify.io/) that adds support for [jsonp](https://en.wikipedia.org/wiki/JSONP#JSONP) response.
 
