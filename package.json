@@ -1,0 +1,51 @@
+{
+  "name": "@pbe/fastify-jsonp",
+  "version": "1.0.0",
+  "description": "A Fastify plugin to add jsonp support",
+  "main": "index.js",
+  "types": "typing.d.ts",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "release": "release-it",
+    "test": "tap"
+  },
+  "author": "Pavel Bely",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "typing.d.ts",
+    "index.js"
+  ],
+  "devDependencies": {
+    "fastify": "4.9.2",
+    "release-it": "15.5.0",
+    "standard": "17.0.0",
+    "tap": "16.3.0"
+  },
+  "dependencies": {
+    "fastify-plugin": "4.3.0"
+  },
+  "engines": {
+    "npm": ">=8",
+    "node": ">=16"
+  },
+  "keywords": [
+    "fastify",
+    "fastify-plugin",
+    "jsonp",
+    "fastify-jsonp"
+  ],
+  "homepage": "https://github.com/R1ZEN/fastify-jsonp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R1ZEN/fastify-jsonp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/R1ZEN/fastify-jsonp/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
