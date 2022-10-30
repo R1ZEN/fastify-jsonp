@@ -5,10 +5,7 @@
 [![npm](https://img.shields.io/npm/v/@pbe/fastify-jsonp?label=npm%20version)](https://www.npmjs.com/package/@pbe/fastify-jsonp)
 [![npm bundle size](https://img.shields.io/bundlephobia/min/@pbe/fastify-jsonp)](https://bundlephobia.com/package/@pbe/fastify-jsonp)
 
-
 A plugin for [Fastify](http://fastify.io/) that adds support for [jsonp](https://en.wikipedia.org/wiki/JSONP#JSONP) response.
-
-> jsonp method in reply is compatible with [express](https://expressjs.com/en/5x/api.html#res.jsonp)
 
 ## Installation
 
